@@ -11,5 +11,5 @@ Este são alguns item:
 
 #Tasklist
 
--[x] Implementando Items
--[ ] Teste
+- [x] Implementando Items
+- [ ] Teste
