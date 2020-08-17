@@ -13,3 +13,5 @@ Este são alguns item:
 
 - [x] Implementando Items
 - [ ] Teste
+
+![](/img/BD1-A09-cinema-diagrama.png)
