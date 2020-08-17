@@ -1,4 +1,5 @@
 # Cineminha
+![](/img/BD1-A09-cinema-diagrama.png)
 
 1. **Filmes**
 2. **Sessão**
@@ -14,4 +15,3 @@ Este são alguns item:
 - [x] Implementando Items
 - [ ] Teste
 
-![](/img/BD1-A09-cinema-diagrama.png)
